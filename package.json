@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "merge-images": "^1.1.0",
+    "resize-image": "^0.1.0",
     "vue": "^2.6.6"
   },
   "devDependencies": {
